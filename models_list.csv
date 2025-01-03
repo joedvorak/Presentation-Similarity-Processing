@@ -1,0 +1,5 @@
+token_length,name,time,truncated time,dataset time ,doc time ,truncated dataset time,truncated doc time
+256,sentence-transformers/all-MiniLM-L6-v2,18.912476301193237,19.7934787273407,,,,
+384,sentence-transformers/all-mpnet-base-v2,265.42640686035156,154.64712595939636,,,,
+512,jxm/cde-small-v1,923.7890481948853,679.3809623718262,200.73281621932983,723.0562319755554,112.38682818412781,566.9941341876984
+8192,nomic-ai/nomic-embed-text-v1.5,1325.0196409225464,829.2448971271515,,,,
